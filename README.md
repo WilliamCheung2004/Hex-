@@ -1,4 +1,4 @@
-# Hex-
+# Hex
 
 Hello, this my implementation on the board game Hex in C++ using and creating an AI via TensorFlow 
 <br> <br>
